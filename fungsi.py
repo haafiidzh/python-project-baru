@@ -6,5 +6,6 @@ def selamat_datang():
     print('halo')
     print('nama saya hapid')
 
+
 selamat_datang()
 selamat_datang()
