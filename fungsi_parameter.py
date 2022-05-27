@@ -7,6 +7,10 @@ def greetings(nama,waktu):
     print('hello',nama,'selamat',waktu)
     print('apakah',nama,'sudah datang',waktu,'ini?')
 
-greetings('Hapid','pagi')
-greetings('Rudi','siang')
-greetings('Wahyu','malam')
+# greetings('Hapid','pagi')
+# greetings('Rudi','siang')
+# greetings('Wahyu','malam')
+
+greetings('malam','Hapid')
+
+greetings(waktu='malam',nama='Hapid')
